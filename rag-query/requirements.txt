@@ -1,0 +1,9 @@
+pymupdf
+python-docx
+python-pptx
+openpyxl
+beautifulsoup4
+lxml
+sentence-transformers>=5.4.1
+faiss-cpu
+numpy
